@@ -2,15 +2,4 @@
 
 When shrinkWrap is true, the SliverAppBar of the CustomScrollView is displayed below the elements of the SliverList.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+shrinkWrap 是 true 的时候，CustomScrollView 的 SliverAppBar 显示在 SliverList 的元素的下层。
