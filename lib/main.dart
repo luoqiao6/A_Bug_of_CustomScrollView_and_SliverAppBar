@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
 
     return CustomScrollView(
-      shrinkWrap: true,
+      shrinkWrap: false,
       slivers: <Widget>[
 
         const SliverAppBar(
